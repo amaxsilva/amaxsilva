@@ -1,4 +1,4 @@
-## Oie! Eu sou o Amax, bem vindo eo meu mundo! 
+## Oie! Eu sou o Amax, bem vindo ao meu mundo! 
 
  
 <div align="center"> 
